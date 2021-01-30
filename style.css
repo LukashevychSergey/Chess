@@ -1,0 +1,30 @@
+
+.wrap{
+    width: 620px;
+    height: 620px;
+    position: relative;
+}
+.bg{
+    width: 600px;
+    height: 600px;
+    background-image: url(images/chess.png) 
+/*        position: relative;*/
+}
+.first{
+    width: 33%;
+}
+.second{
+    position: absolute;
+    top: -2px;
+    left: 198px;
+}
+.third{
+    position: absolute;
+    top: 196px;
+    left: 0px;
+}
+.fourth{
+    position: absolute;
+    top: 397px;
+    left: 195px;
+}
